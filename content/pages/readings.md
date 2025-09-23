@@ -26,11 +26,11 @@ Introduction
 Views of Environmental In-Justice
 {{< tdclose >}}{{< tdopen >}}
 
-Bullard, Robert. "[Race, Class, and the Politics of Place](http://www.ciesin.org/docs/010-278/010-278chpt2.html)." Chapter 2 in *Dumping in Dixie: Race, Class, and Environmental Quality*. Boulder: Westview Press, 1990.
+Bullard, Robert. "{{% resource_link "a80bda09-c1a8-4cfa-b3af-e836123cc61c" "Race, Class, and the Politics of Place" %}}." Chapter 2 in *Dumping in Dixie: Race, Class, and Environmental Quality*. Boulder: Westview Press, 1990.
 
 Rechtschaffen, Clifford, and Eileen Guana. "Theories of Causation." Chapter 2 in *Environmental Justice: Law, Policy, and Regulation*. Durham, NC: Carolina Academic Press, 2002, pp. 27-52.
 
-U.S. Commission on Civil Rights. *Not in My Backyard: Executive Order 12,898 and Title VI as Tools for Achieving Environmental Justice*. 2003, pp. 13-28. Available online ([PDF - 1.9 MB](http://www.usccr.gov/pubs/envjust/ej0104.pdf)).
+U.S. Commission on Civil Rights. *Not in My Backyard: Executive Order 12,898 and Title VI as Tools for Achieving Environmental Justice*. 2003, pp. 13-28. Available online ({{% resource_link "45370761-ce22-4666-a80a-175b309ec39e" "PDF - 1.9 MB" %}}).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -42,7 +42,7 @@ Cole, Luke W., and Sheila R. Foster. Chapter 1 in *From the Ground Up: Environme
 
 Checker, Melissa. "Like Nixon Coming to China': Finding Common Ground in a Multi-Ethnic Coalition for Environmental Justice." *Anthropological Quarterly* 74, no. 3 (2001): 135-146.
 
-"[Principles of EJ](https://www.nrdc.org/sites/default/files/ej-principles.pdf)." *The First National People of Color Environmental Summit*.
+"{{% resource_link "c9a4b460-dd29-4404-bfbb-a2fec62de305" "Principles of EJ" %}}." *The First National People of Color Environmental Summit*.
 
 Gottlieb, Robert. "Ethnicity as a Factor: The Quest for Environmental Justice." Chapter 7 in *Forcing the Spring: The Transformation of the American Environmental Movement*. Washington, DC: Island Press, 1993, pp. 235-269.
 
@@ -96,9 +96,9 @@ Gaylord, Clarice E., and Elizabeth Bell. "Environmental Justice: A National Prio
 
 Rechtschaffen, Clifford, and Eileen Guana. "The Executive Order on Environmental Justice," and "Memorandum." In *Environmental Justice: Law, Policy, and Regulation*. Durham, NC: Carolina Academic Press, 2002, pp. 391-397.
 
-Review the [Interagency Working Group's](https://www.epa.gov/environmentaljustice/federal-interagency-working-group-environmental-justice-ej-iwg) activities.
+Review the {{% resource_link "d13929b7-5029-45e6-ba56-55b1ef2441f4" "Interagency Working Group's" %}} activities.
 
-Review one or more reports /recommendations from the [National Environmental Justice Advisory Council](https://www.epa.gov/environmentaljustice/national-environmental-justice-advisory-council).
+Review one or more reports /recommendations from the {{% resource_link "06460c66-ecb4-4ffb-9b08-5af5afb6e46d" "National Environmental Justice Advisory Council" %}}.
 
 Environmental Justice in the Permitting Process (1999)
 
@@ -110,7 +110,7 @@ Fish Consumption and Environmental Justice (2001)
 
 Advancing Environmental Justice through Pollution Prevention (2002)
 
-U.S. Commission on Civil Rights. *Not in My Backyard: Executive Order 12,898 and Title VI as Tools for Achieving Environmental Justice*. 2003. Skim chapters 3 and 4. Available online ([PDF - 1.9 MB](http://www.usccr.gov/pubs/envjust/ej0104.pdf)).
+U.S. Commission on Civil Rights. *Not in My Backyard: Executive Order 12,898 and Title VI as Tools for Achieving Environmental Justice*. 2003. Skim chapters 3 and 4. Available online ({{% resource_link "45370761-ce22-4666-a80a-175b309ec39e" "PDF - 1.9 MB" %}}).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -127,7 +127,7 @@ Warner, Kee. "Linking Local Sustainability Initiatives with Environmental Justic
 Hillman, Mick. "Environmental Justice: A Crucial Link Between Environmentalism and Community Development." *Community Development Journal* 37, no. 4 (2002): 349-360.
 
 National Academy of Public Administration. *Addressing Community Concerns: How Environmental Justice Relates to Land Use Planning and Zoning*. 2003.   
-Read the executive summary and any other sections of interest. Available online ([PDF - 3.5MB](https://www.napawash.org/uploads/Academy_Studies/03_04AddressingCommunityConcernsHowEnvironmentalJusticeRelatestoLandUsePlanningandZoning.pdf)).
+Read the executive summary and any other sections of interest. Available online ({{% resource_link "3658afb8-5111-41c4-9532-7497a04041fa" "PDF - 3.5MB" %}}).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
