@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: List of Topics and Key Dates as per Lecture
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

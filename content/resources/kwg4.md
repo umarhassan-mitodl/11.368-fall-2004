@@ -4,6 +4,8 @@ description: Example of a student's response to the Reaction Paper 4 assignment.
 file: /courses/11-368-environmental-justice-fall-2004/1ee19d21fef34b26eea9c06e05226346_kwg4.pdf
 file_size: 78343
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
